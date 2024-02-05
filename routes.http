@@ -14,7 +14,6 @@ GET http://localhost:3001/videos
 ###
 GET http://localhost:3001/videos?search=node
 
-
 ###
 
 PUT http://localhost:3001/videos/36ab3de6-023a-493d-973d-4214d87f01f0
